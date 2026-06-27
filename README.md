@@ -20,7 +20,7 @@ Add screenshots of your application here.
 
 | Original image                | Encrypted Image                     | Decrypted Image                     |
 | ----------------------------- | ----------------------------------- | ----------------------------------- |
-| ![Home](./Screenshots/Original Image.png) | ![Encrypt]("Screenshots/Encrypted Image.png") | ![Decrypt]("Screenshots\Decrypted Image.png") |
+| ![Home](./Screenshots/Original Image.png) | ![Encrypt]("./Screenshots/Encrypted Image.png") | ![Decrypt]("Screenshots\Decrypted Image.png") |
 
 ---
 
